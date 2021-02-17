@@ -1,0 +1,82 @@
+.contact {
+    font-size: 25px;
+  }
+  
+  .cross {
+    position: absolute;
+    top: 25px;
+    right: 25px;
+  }
+
+  .formcontainer {
+    background: #fcebe5 0% 0% no-repeat padding-box;
+    border-radius: 16px;
+    opacity: 1;
+    padding: 10px;
+    background-color: #fde3d9;
+  }
+    
+ /* Full-width input fields */
+.formcontainer input[type="text"],
+.formcontainer input[type="password"] {
+  width: 50%;
+  padding: 5px;
+  margin: 10px 0 22px 0;
+  border: none;
+  background: white;
+}
+
+/* When the inputs get focus, do something */
+.formcontainer input[type="text"]:focus,
+.formcontainer input[type="password"]:focus {
+  background-color: white;
+  outline: none;
+}
+
+/* Set a style for the submit/login button */
+.btn {
+  position: relative;
+  background-color: black;
+  color: white;
+  left: 33%;
+  padding: 6px 6px;
+  border: none;
+  cursor: pointer;
+  border-radius: 560px;
+  margin-bottom: 10px;
+  opacity: 0.8;
+}
+
+.fb {
+  position: static;
+}
+
+.formcontainer .btn:hover,
+.openbutton:hover {
+  opacity: 1;
+}
+
+label {
+  display: inline-block;
+  font-size: 15px;
+  background-color: white;
+  padding: 10px;
+  border-radius: 777px;
+}
+
+.stat {
+    position: static;
+    width: 98%;
+    height: 40px;
+    border: 1px solid #73ad21;
+    background-color: white;
+    border-radius: 777px;
+  }
+  .small {
+    font-size: 8px;
+  }
+    
+  .iconSize{
+    width:10px;
+    height:10px;
+  }

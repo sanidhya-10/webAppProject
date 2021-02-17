@@ -1,0 +1,150 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Wrapper RENDERER snapshot 1`] = `
+<div
+  class="container"
+  id="o1"
+>
+  <div
+    class="left-half"
+    id="op"
+  >
+    <img
+      alt="f"
+      class="l1"
+      src="../../Cat-N-Dog-Logo copy.png"
+    />
+    <div
+      class="ar"
+    >
+      <h1>
+         
+        <jklk />
+      </h1>
+      <p>
+        Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+      </p>
+    </div>
+    <ul>
+      <li
+        class="badge"
+      >
+         
+        <a
+          href="http://localhost:3000/"
+        >
+          <img
+            alt="f"
+            class=""
+            src="../../google-play-badge.png"
+          />
+        </a>
+      </li>
+      <li
+        class="badge2"
+      >
+         
+        <a
+          href="http://localhost:3000/"
+        >
+          <img
+            alt="f"
+            class=""
+            src="../../AppStoreBadge.svg"
+          />
+        </a>
+      </li>
+    </ul>
+  </div>
+  <div
+    class="right-half"
+    id="op1"
+  >
+    <div
+      class="righttext"
+    >
+      <h1
+        class="headingright"
+      >
+         Type text.
+      </h1>
+      <p>
+        Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+      </p>
+      <button
+        class="button11 "
+        onClick={[Function]}
+      />
+      <button
+        class="button11"
+        onClick={[Function]}
+      />
+    </div>
+    <ul
+      class="icon"
+    >
+      <li>
+        <img
+          alt="n"
+          src="FB-icon-black.png"
+        />
+      </li>
+      <li>
+        <img
+          alt="n"
+          src="linkedin-icon-black.png"
+        />
+      </li>
+      <li>
+        <img
+          alt="n"
+          src="Twitter-icon-black.png"
+        />
+      </li>
+    </ul>
+  </div>
+  <ul
+    class="a2"
+  >
+    <li>
+      <a
+        class="aa"
+        href="http://localhost:3000/"
+      >
+        About
+      </a>
+    </li>
+    <li>
+      <a
+        class="aa"
+        href="http://localhost:3000/"
+      >
+        Blog
+      </a>
+    </li>
+    <li>
+      <a
+        class="aa"
+        href="http://localhost:3000/"
+      >
+        Careers
+      </a>
+    </li>
+    <li>
+      <button
+        class="contactbtn"
+        onClick={[Function]}
+        type="text"
+      >
+        Contact
+      </button>
+    </li>
+  </ul>
+  <div
+    class="form-popup "
+    id="myForm"
+  >
+    <ced x />
+  </div>
+</div>
+`;
