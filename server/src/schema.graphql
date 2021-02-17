@@ -1,0 +1,17 @@
+type Query {
+  getmessage: [msg!]!
+  getdata: String!
+}
+
+type Mutation {
+  post(email: String!, message: String!): Link!
+}
+
+type Link {
+  email: String!
+  message: String!
+}
+
+type msg {
+  message: String!
+}
